@@ -1,0 +1,27 @@
+[submodule "PythonDataScienceHandbook"]
+	path = PythonDataScienceHandbook
+	url = https://github.com/jakevdp/PythonDataScienceHandbook
+[submodule "ThinkDSP"]
+	path = ThinkDSP
+	url = https://github.com/AllenDowney/ThinkDSP
+[submodule "pyunfold"]
+	path = pyunfold
+	url = https://github.com/jrbourbeau/pyunfold
+[submodule "dit"]
+	path = dit
+	url = https://github.com/dit/dit
+[submodule "pycm"]
+	path = pycm
+	url = https://github.com/sepandhaghighi/pycm
+[submodule "Nashpy"]
+	path = Nashpy
+	url = https://github.com/drvinceknight/Nashpy.git
+[submodule "NeuNorm"]
+	path = NeuNorm
+	url = https://github.com/scikit-beam/NeuNorm.git
+[submodule "Kalman-and-Bayesian-Filters-in-Python"]
+	path = Kalman-and-Bayesian-Filters-in-Python
+	url = https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+[submodule "PyDMD"]
+	path = PyDMD
+	url = https://github.com/mathLab/PyDMD

@@ -1,0 +1,37 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- flake8
+- ipykernel
+- ipython
+- jupyter
+- matplotlib
+- nbsphinx
+- numpy
+- numpydoc
+- pandas
+- pandoc
+- pytables
+- pytest
+- pytest-cov
+- python
+- python=3.*
+- scipy
+- seaborn
+- six
+- sphinx
+- sphinx_rtd_theme
+- sympy
+- pip:
+  - pillow
+  - notebook
+  - pandas-datareader
+  - filterpy
+  - netcdf4
+  - numexpr
+  - line_profiler
+  - scikit-image
+  - scikit-learn
+  - memory_profiler
+name: bench
